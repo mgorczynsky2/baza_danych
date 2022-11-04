@@ -1,7 +1,0 @@
-echo "# baza_danych" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/mgorczynsky2/baza_danych.git
-git push -u origin main
